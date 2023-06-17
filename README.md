@@ -1,2 +1,2 @@
 # Mixarudba
-print
+print lllf
